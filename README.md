@@ -9,8 +9,6 @@ TPBspeedratio must be installed using Tampermonkey or Geasy Fork.
 
 ### Installation
 
-Dillinger requires Tampermonkey or Geasy Fork to run.
-
 Download and install Tampermonkey for Google Chrome at https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en.
 
 Or
