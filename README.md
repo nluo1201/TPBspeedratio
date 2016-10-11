@@ -17,7 +17,7 @@ Or
 
 Download and install Geasy Fork for your browser at https://greasyfork.org/en
 
-Then install the script at this site.
+Then install the script at this site by click [this]https://github.com/nluo1201/TPBspeedratio/raw/master/TPBspeedratio.user.js
 
 ### Todos
 
